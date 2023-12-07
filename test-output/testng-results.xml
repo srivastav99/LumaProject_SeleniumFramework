@@ -1,0 +1,767 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Shop New Yoga button]]>
+    </line>
+    <line>
+      <![CDATA[Shop new Yoga page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Create an Account button]]>
+    </line>
+    <line>
+      <![CDATA[Create an Account page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Women Tab]]>
+    </line>
+    <line>
+      <![CDATA[Women page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Men Tab]]>
+    </line>
+    <line>
+      <![CDATA[Men page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin link]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin button for login page test cases]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Forgot your password link]]>
+    </line>
+    <line>
+      <![CDATA[Forgot your Password page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin button for login page test cases]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Create an Account]]>
+    </line>
+    <line>
+      <![CDATA[Create New Customer Account page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin button for login page test cases]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entering username in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[Username successfully entered in username textbox]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin button for login page test cases]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entering password in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[Password successfully entered in password textbox]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+    <line>
+      <![CDATA[Launching browser]]>
+    </line>
+    <line>
+      <![CDATA[HomePage opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Browser launch successful]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin button for login page test cases]]>
+    </line>
+    <line>
+      <![CDATA[Login page opened successfully]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on Signin In button]]>
+    </line>
+    <line>
+      <![CDATA[Home Page opened successfully Login successfully]]>
+    </line>
+    <line>
+      <![CDATA[Closing Browser]]>
+    </line>
+    <line>
+      <![CDATA[Browser close successful]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-24T21:58:03 IST" name="Suite" finished-at="2023-11-24T21:59:27 IST" duration-ms="83902">
+    <groups>
+    </groups>
+    <test started-at="2023-11-24T21:58:03 IST" name="HomePageTest" finished-at="2023-11-24T21:58:41 IST" duration-ms="38171">
+      <class name="tests.HomePageTest">
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:03 IST" name="browserSetUp" finished-at="2023-11-24T21:58:10 IST" duration-ms="7221" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomePageTest.clickOnShopNewYoga()[pri:1, instance:tests.HomePageTest@229c6181] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="clickOnShopNewYoga()[pri:1, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:10 IST" name="clickOnShopNewYoga" finished-at="2023-11-24T21:58:13 IST" duration-ms="2892" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Shop New Yoga button]]>
+            </line>
+            <line>
+              <![CDATA[Shop new Yoga page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnShopNewYoga -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:13 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:14 IST" duration-ms="291" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnShopNewYoga status=SUCCESS method=HomePageTest.clickOnShopNewYoga()[pri:1, instance:tests.HomePageTest@229c6181] output=Clicking on Shop New Yoga button]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:14 IST" name="browserSetUp" finished-at="2023-11-24T21:58:19 IST" duration-ms="4852" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomePageTest.clickOnCreateAccount()[pri:2, instance:tests.HomePageTest@229c6181] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="clickOnCreateAccount()[pri:2, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:19 IST" name="clickOnCreateAccount" finished-at="2023-11-24T21:58:20 IST" duration-ms="1563" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Create an Account button]]>
+            </line>
+            <line>
+              <![CDATA[Create an Account page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnCreateAccount -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:20 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:20 IST" duration-ms="247" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnCreateAccount status=SUCCESS method=HomePageTest.clickOnCreateAccount()[pri:2, instance:tests.HomePageTest@229c6181] output=Clicking on Create an Account button]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:20 IST" name="browserSetUp" finished-at="2023-11-24T21:58:25 IST" duration-ms="4946" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomePageTest.clickOnWomen()[pri:3, instance:tests.HomePageTest@229c6181] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="clickOnWomen()[pri:3, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:25 IST" name="clickOnWomen" finished-at="2023-11-24T21:58:27 IST" duration-ms="1996" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Women Tab]]>
+            </line>
+            <line>
+              <![CDATA[Women page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnWomen -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:27 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:28 IST" duration-ms="240" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnWomen status=SUCCESS method=HomePageTest.clickOnWomen()[pri:3, instance:tests.HomePageTest@229c6181] output=Clicking on Women Tab]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:28 IST" name="browserSetUp" finished-at="2023-11-24T21:58:32 IST" duration-ms="4264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomePageTest.clickOnMen()[pri:4, instance:tests.HomePageTest@229c6181] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="clickOnMen()[pri:4, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:32 IST" name="clickOnMen" finished-at="2023-11-24T21:58:34 IST" duration-ms="2103" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Men Tab]]>
+            </line>
+            <line>
+              <![CDATA[Men page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnMen -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:34 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:34 IST" duration-ms="270" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnMen status=SUCCESS method=HomePageTest.clickOnMen()[pri:4, instance:tests.HomePageTest@229c6181] output=Clicking on Men Tab]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:34 IST" name="browserSetUp" finished-at="2023-11-24T21:58:39 IST" duration-ms="5275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=HomePageTest.clickOnSigninLink()[pri:5, instance:tests.HomePageTest@229c6181] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="clickOnSigninLink()[pri:5, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:39 IST" name="clickOnSigninLink" finished-at="2023-11-24T21:58:41 IST" duration-ms="1624" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin link]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- clickOnSigninLink -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.HomePageTest@229c6181]" started-at="2023-11-24T21:58:41 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:41 IST" duration-ms="261" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=clickOnSigninLink status=SUCCESS method=HomePageTest.clickOnSigninLink()[pri:5, instance:tests.HomePageTest@229c6181] output=Clicking on Signin link]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+      </class> <!-- tests.HomePageTest -->
+    </test> <!-- HomePageTest -->
+    <test started-at="2023-11-24T21:58:41 IST" name="LoginPageTest" finished-at="2023-11-24T21:59:27 IST" duration-ms="45691">
+      <class name="tests.BaseTest">
+        <test-method is-config="true" signature="configPropertiesClassSetup()[pri:0, instance:tests.BaseTest@5d0bf09b]" started-at="2023-11-24T21:58:02 IST" name="configPropertiesClassSetup" finished-at="2023-11-24T21:58:03 IST" duration-ms="987" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configPropertiesClassSetup -->
+        <test-method is-config="true" signature="suiteTearDown()[pri:0, instance:tests.BaseTest@5d0bf09b]" started-at="2023-11-24T21:59:27 IST" name="suiteTearDown" finished-at="2023-11-24T21:59:28 IST" duration-ms="683" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteTearDown -->
+      </class> <!-- tests.BaseTest -->
+      <class name="tests.LoginPageTest">
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:41 IST" name="browserSetUp" finished-at="2023-11-24T21:58:46 IST" duration-ms="4457" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginPageTest.forgotPassword()[pri:1, instance:tests.LoginPageTest@793f29ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="forgotPassword()[pri:1, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:46 IST" name="forgotPassword" finished-at="2023-11-24T21:58:49 IST" duration-ms="2922" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin button for login page test cases]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Forgot your password link]]>
+            </line>
+            <line>
+              <![CDATA[Forgot your Password page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- forgotPassword -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:49 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:49 IST" duration-ms="248" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=forgotPassword status=SUCCESS method=LoginPageTest.forgotPassword()[pri:1, instance:tests.LoginPageTest@793f29ff] output=Clicking on Signin button for login page test cases]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:49 IST" name="browserSetUp" finished-at="2023-11-24T21:58:54 IST" duration-ms="4853" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginPageTest.createAccount()[pri:2, instance:tests.LoginPageTest@793f29ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="createAccount()[pri:2, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:54 IST" name="createAccount" finished-at="2023-11-24T21:58:57 IST" duration-ms="3267" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin button for login page test cases]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Create an Account]]>
+            </line>
+            <line>
+              <![CDATA[Create New Customer Account page opened successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createAccount -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:57 IST" name="BrowserTearDown" finished-at="2023-11-24T21:58:57 IST" duration-ms="250" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccount status=SUCCESS method=LoginPageTest.createAccount()[pri:2, instance:tests.LoginPageTest@793f29ff] output=Clicking on Signin button for login page test cases]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:58:57 IST" name="browserSetUp" finished-at="2023-11-24T21:59:03 IST" duration-ms="5168" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginPageTest.userName()[pri:3, instance:tests.LoginPageTest@793f29ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="userName()[pri:3, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:03 IST" name="userName" finished-at="2023-11-24T21:59:07 IST" duration-ms="4322" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin button for login page test cases]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entering username in username textbox]]>
+            </line>
+            <line>
+              <![CDATA[Username successfully entered in username textbox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- userName -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:07 IST" name="BrowserTearDown" finished-at="2023-11-24T21:59:07 IST" duration-ms="237" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=userName status=SUCCESS method=LoginPageTest.userName()[pri:3, instance:tests.LoginPageTest@793f29ff] output=Clicking on Signin button for login page test cases]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:07 IST" name="browserSetUp" finished-at="2023-11-24T21:59:12 IST" duration-ms="4788" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginPageTest.password()[pri:4, instance:tests.LoginPageTest@793f29ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="password()[pri:4, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:12 IST" name="password" finished-at="2023-11-24T21:59:14 IST" duration-ms="2147" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin button for login page test cases]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entering password in password textbox]]>
+            </line>
+            <line>
+              <![CDATA[Password successfully entered in password textbox]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- password -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:14 IST" name="BrowserTearDown" finished-at="2023-11-24T21:59:14 IST" duration-ms="257" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=password status=SUCCESS method=LoginPageTest.password()[pri:4, instance:tests.LoginPageTest@793f29ff] output=Clicking on Signin button for login page test cases]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+        <test-method is-config="true" signature="browserSetUp(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:14 IST" name="browserSetUp" finished-at="2023-11-24T21:59:20 IST" duration-ms="5784" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=LoginPageTest.signInButton()[pri:5, instance:tests.LoginPageTest@793f29ff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Launching browser]]>
+            </line>
+            <line>
+              <![CDATA[HomePage opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Browser launch successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- browserSetUp -->
+        <test-method signature="signInButton()[pri:5, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:20 IST" name="signInButton" finished-at="2023-11-24T21:59:27 IST" duration-ms="6708" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Clicking on Signin button for login page test cases]]>
+            </line>
+            <line>
+              <![CDATA[Login page opened successfully]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on Signin In button]]>
+            </line>
+            <line>
+              <![CDATA[Home Page opened successfully Login successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- signInButton -->
+        <test-method is-config="true" signature="BrowserTearDown(org.testng.ITestResult)[pri:0, instance:tests.LoginPageTest@793f29ff]" started-at="2023-11-24T21:59:27 IST" name="BrowserTearDown" finished-at="2023-11-24T21:59:27 IST" duration-ms="264" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInButton status=SUCCESS method=LoginPageTest.signInButton()[pri:5, instance:tests.LoginPageTest@793f29ff] output=Clicking on Signin button for login page test cases]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Closing Browser]]>
+            </line>
+            <line>
+              <![CDATA[Browser close successful]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BrowserTearDown -->
+      </class> <!-- tests.LoginPageTest -->
+    </test> <!-- LoginPageTest -->
+  </suite> <!-- Suite -->
+</testng-results>
